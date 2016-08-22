@@ -1,0 +1,114 @@
+/* Main */
+*{
+    margin:0;
+    padding:0;
+}
+/* Hero */
+.hero{
+    height:100vh;
+}
+.heroline1{
+    height:25%;
+    background-color: aqua;
+}
+.herobox1-1{
+    float:left;
+    height:100%;
+    width:12.5%;
+    background-color:#FFB237;
+}
+.herobox1-2{
+    float:left;
+    height:100%;
+    width:12.5%;
+    background-color:#FF3370;
+}
+.herobox1-3{
+    float:left;
+    height:100%;
+    width:12.5%;
+    background-color:#DD4AFF;
+}
+.herobox1-4{
+    float:left;
+    height:100%;
+    width:12.5%;
+    background-color:#32B9FF;
+}
+.herobox1-5{
+    float:left;
+    height:100%;
+    width:12.5%;
+    background-color:magenta;
+}
+.herobox1-6{
+    float:left;
+    height:100%;
+    width:12.5%;
+    background-color:magenta;
+}
+.herobox1-7{
+    float:left;
+    height:100%;
+    width:12.5%;
+    background-color:magenta;
+}
+.herobox1-8{
+    float:left;
+    height:100%;
+    width:12.5%;
+    background-color:magenta;
+}
+
+
+
+
+
+
+
+
+
+
+.heroline2{
+    height:25%;
+    background-color: skyblue;
+}
+.heroline3{
+    height:25%;
+    background-color: red;
+}
+.heroline4{
+    height:25%;
+    background-color: hotpink;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Footer */
+.footer{
+    color:white;
+    background-color:black;
+}
